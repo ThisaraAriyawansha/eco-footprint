@@ -1,0 +1,10 @@
+{
+  "user": {
+    "name": "Thisara Ariyawansha",
+    "carType": "electric",
+    "weeklyKm": 200.0,
+    "electricity": 5.0,
+    "meatMeals": 1,
+    "recycling": 90.0
+  }
+}

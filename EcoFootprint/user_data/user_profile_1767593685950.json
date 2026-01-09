@@ -1,0 +1,8 @@
+{
+  "name": "Max",
+  "carType": "petrol",
+  "carWeeklyKm": 300.0,
+  "electricityMonthlyKwh": 100.0,
+  "meatMealsPerWeek": 2,
+  "recyclingPercent": 1.0
+}

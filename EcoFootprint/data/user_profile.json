@@ -1,0 +1,8 @@
+{
+  "name": "John Doe",
+  "carWeeklyKm": 150,
+  "carType": "petrol",
+  "electricityMonthlyKwh": 280,
+  "meatMealsPerWeek": 7,
+  "recyclingPercent": 50
+}
